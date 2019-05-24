@@ -13,4 +13,5 @@
   echo "Dit is de veertiende commit";
 
   echo "Dit is een vijftiende commit";
+  echo "Dit is de zestiende commit";
 ?>
