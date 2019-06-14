@@ -1,3 +1,4 @@
+<button onclick="window.location.href = './snake/snake.html'">Click Here</button>
 <img src="./footoo/pwooah.gif">
 <img src="./footoo/kind.png">
 <img src="./footoo/dontaskquestions.png">
