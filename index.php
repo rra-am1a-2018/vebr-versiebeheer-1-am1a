@@ -22,6 +22,7 @@ echo "klere lijers";
 echo "yeet";
 ?>
 <button onclick="window.location.href = './snake/snake.html'">SPEEL SNAKE!!!</button>
+<button onclick="window.location.href = './pacman/index.html'">SPEEL PACMAN!!!</button>
 <img src="./footoo/pwooah.gif">
 <img src="./footoo/kind.png">
 <img src="./footoo/dontaskquestions.png">
