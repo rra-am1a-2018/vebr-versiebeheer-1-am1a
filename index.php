@@ -10,3 +10,4 @@
 <img src="./footoo/lk.png">
 <img src="./footoo/def.jpg">
 <img src="./footoo/posi.png">
+<img src="./footoo/geert.jpg">
