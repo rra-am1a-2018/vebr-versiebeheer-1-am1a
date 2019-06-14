@@ -1,5 +1,6 @@
 <img src="./footoo/pwooah.gif">
 <img src="./footoo/kind.png">
+<img src="./footoo/dontaskquestions.png">
 <img src="./footoo/tenor.gif">
 <img src="./footoo/F.jpg">
 <img src="./footoo/yr.jpg">
@@ -10,3 +11,4 @@
 <img src="./footoo/lk.png">
 <img src="./footoo/def.jpg">
 <img src="./footoo/posi.png">
+<img src="./footoo/geert.jpg">
