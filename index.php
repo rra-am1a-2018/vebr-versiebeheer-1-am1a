@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <?php
   echo "Hallo Git World!";
   echo "Dit is nieuwe code voor de tweede commit";
@@ -20,23 +19,5 @@
   echo "test";
 
   echo "klere lijers";
+  echo "yeet";
 ?>
-=======
-<img src="./footoo/pwooah.gif">
-<img src="./footoo/kind.png">
-<img src="./footoo/dontaskquestions.png">
-<img src="./footoo/tenor.gif">
-<img src="./footoo/F.jpg">
-<img src="./footoo/yr.jpg">
-<img src="./footoo/opblaasbootje.jpg">
-<img src="./footoo/when does this end.png">
-<img src="./footoo/wb.png">
-<img src="./footoo/jr.png">
-<img src="./footoo/lk.png">
-<img src="./footoo/def.jpg">
-<img src="./footoo/posi.png">
-<<<<<<< HEAD
->>>>>>> ec7c236fbc2d107eb087bf122c2932a3e4d48b43
-=======
-<img src="./footoo/geert.jpg">
->>>>>>> 73f312c4bfd9020f590c061de8cf8a0dce0c2b66
