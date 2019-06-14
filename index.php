@@ -35,4 +35,8 @@
 <img src="./footoo/lk.png">
 <img src="./footoo/def.jpg">
 <img src="./footoo/posi.png">
+<<<<<<< HEAD
 >>>>>>> ec7c236fbc2d107eb087bf122c2932a3e4d48b43
+=======
+<img src="./footoo/geert.jpg">
+>>>>>>> 73f312c4bfd9020f590c061de8cf8a0dce0c2b66
