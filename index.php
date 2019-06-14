@@ -142,7 +142,7 @@ echo "Something";
 <img src="./footoo/opblaasbootje.jpg">
 <img src="./footoo/when does this end.png">
 <img src="./footoo/wb.png">
-<img src="./footoo/fed.jpg">
+<img src="./footoo/def.jpg">
 
 <?php
 echo "Hallo Git World!";
