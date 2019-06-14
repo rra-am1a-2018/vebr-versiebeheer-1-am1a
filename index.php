@@ -145,6 +145,7 @@ echo "Something";
 <img src="./footoo/jr.png">
 <img src="./footoo/lk.png">
 <img src="./footoo/def.jpg">
+<img src="./footoo/kind.png">
 
 <?php
 echo "Hallo Git World!";
