@@ -16,9 +16,7 @@
   echo "Dit is de zestiende commit";
   echo "Pull request";
 
-<<<<<<< HEAD
   echo "test";
-=======
-  echo "mijn naam is wobf";
->>>>>>> 32556c225b36a63be91c53878011f123d9bca48a
+
+  echo "klere lijers";
 ?>
