@@ -15,5 +15,11 @@
   echo "Dit is een vijftiende commit";
   echo "Dit is de zestiende commit";
   echo "Pull request";
+<<<<<<< HEAD
   echo "heyy"
 ?> 
+=======
+
+  echo "Something";
+?>
+>>>>>>> 656c27d6b2c99975cfabda438f1562b8ecd6891d
