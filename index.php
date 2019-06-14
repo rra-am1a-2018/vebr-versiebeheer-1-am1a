@@ -24,7 +24,7 @@
   echo "Mijn naam is Arjan";
   echo "Dit is de volgende test";
 >>>>>>> d82192e733893517d41f1ce9b877e775430b9932
-
+echo "241";
   echo "Something";
 ?>
 >>>>>>> 656c27d6b2c99975cfabda438f1562b8ecd6891d
