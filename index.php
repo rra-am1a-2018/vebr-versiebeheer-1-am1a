@@ -3,7 +3,7 @@
 <img src="./footoo/dontaskquestions.png">
 <img src="./footoo/tenor.gif">
 <img src="./footoo/F.jpg">
-<img src="./footoo/yr.jpg">
+<img src="./footoo/pear.jpg">
 <img src="./footoo/opblaasbootje.jpg">
 <img src="./footoo/when does this end.png">
 <img src="./footoo/wb.png">
