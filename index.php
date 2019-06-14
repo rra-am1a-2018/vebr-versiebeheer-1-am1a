@@ -54,6 +54,7 @@ echo "Something";
 
 <img src="./footoo/F.jpg">
 <img src="./footoo/yr.jpg">
+<img src="./footoo/opblaasbootje.jpg">
 <?php
 echo "Hallo Git World!";
 echo "Dit is nieuwe code voor de tweede commit";
