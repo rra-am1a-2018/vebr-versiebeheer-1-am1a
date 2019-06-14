@@ -12,3 +12,4 @@
 <img src="./footoo/def.jpg">
 <img src="./footoo/posi.png">
 <img src="./footoo/geert.jpg">
+<img src="./footoo/avatar.jpg">
