@@ -1,14 +1,16 @@
 <?php
-  echo "Hallo Git World!";
-  echo "Dit is nieuwe code voor de tweede commit";
-  echo "Dit is de derde commit";
-  echo "avatar the last airbender is best show e ver";
-  echo "Hallo Git World!";
 echo "Hallo Git World!";
 echo "Dit is nieuwe code voor de tweede commit";
 echo "Dit is de derde commit";
 echo "avatar the last airbender is best show e ver";
-
+echo "Hallo Git World!";
+echo "Hallo Git World!";
+echo "Dit is nieuwe code voor de tweede commit";
+echo "Dit is de derde commit";
+echo "avatar the last airbender is best show e ver";
+?>
+<img src="./footoo/tenor.gif">
+<?php
 echo "Hallo Git World!";
 echo "Dit is nieuwe code voor de tweede commit";
 echo "Dit is de derde commit";
@@ -26,6 +28,7 @@ echo "Dit is een vijftiende commit";
 echo "Dit is de zestiende commit";
 echo "Pull request";
 echo "Hello There";
+<<<<<<< HEAD
   echo "Dit wordt de vijfde commit";
   echo "Dit is de zevende commit";
   echo "Dit is de achtste commit";
@@ -55,10 +58,28 @@ echo "Hello There";
 >>>>>>> 50385f84f15b16042e1b6e567a4447d6e964d4d6
   echo "blood";
   echo "heyy";
+=======
+echo "Dit wordt de vijfde commit";
+echo "Dit is de zevende commit";
+echo "Dit is de achtste commit";
+echo "Dit is de negende commit";
+echo "Dit is de tiende commit";
+echo "Dit is de elfde commit";
+echo "Dit is de twaalfde commit";
+echo "Dit is de dertiende commit";
+echo "Dit is de veertiende commit";
+echo "dit is een commit";
+echo "Dit is een vijftiende commit";
+echo "Dit is de zestiende commit";
+echo "Pull request";
+echo "blood";
+echo "heyy";
+>>>>>>> 3496acb2ca18408b646d6a5d92d44d53c06ee802
 
-  echo "Mijn naam is Arjan";
-  echo "Dit is de volgende test";
+echo "Mijn naam is Arjan";
+echo "Dit is de volgende test";
 echo "241";
+<<<<<<< HEAD
   echo "Something";
 <<<<<<< HEAD
 =======
@@ -67,6 +88,11 @@ echo "241";
 
 >>>>>>> 50385f84f15b16042e1b6e567a4447d6e964d4d6
   echo "Hello There";
+=======
+echo "Something";
+
+echo "Hello There";
+>>>>>>> 3496acb2ca18408b646d6a5d92d44d53c06ee802
 echo "Hallo Git World!";
 echo "Dit is nieuwe code voor de tweede commit";
 echo "Dit is de derde commit";
@@ -134,7 +160,7 @@ echo "Something";
 
 <img src="./footoo/F.jpg">
 <img src="./footoo/when does this end.png">
-<img src="./footoo/yr.jpg">
+<img src="./footoo/wb.png">
 <?php
 echo "Hallo Git World!";
 echo "Dit is nieuwe code voor de tweede commit";
@@ -196,9 +222,13 @@ echo "Hello There";
 
 <img src="https://www.google.com/search?q=random+img&source=lnms&tbm=isch&sa=X&ved=0ahUKEwikluyG8ejiAhWQGewKHfiZCW4Q_AUIECgB&biw=1536&bih=754#imgrc=X6wYAJJ9uPhsKM:">
 
+<<<<<<< HEAD
 ?>
 <<<<<<< HEAD
 >>>>>>> bc2f8ce29b874ddfd9089adcae531f8531b38dbf
 >>>>>>> 47ebab4645d1eca87190e5f94fd04f107050a1a3
 =======
 >>>>>>> 50385f84f15b16042e1b6e567a4447d6e964d4d6
+=======
+?>
+>>>>>>> 3496acb2ca18408b646d6a5d92d44d53c06ee802
