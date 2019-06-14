@@ -11,14 +11,19 @@
   echo "Dit is de twaalfde commit";
   echo "Dit is de dertiende commit";
   echo "Dit is de veertiende commit";
-
+  echo "dit is een commit";
   echo "Dit is een vijftiende commit";
   echo "Dit is de zestiende commit";
   echo "Pull request";
 <<<<<<< HEAD
+<<<<<<< HEAD
   echo "heyy"
 ?> 
 =======
+=======
+  echo "Mijn naam is Arjan";
+  echo "Dit is de volgende test";
+>>>>>>> d82192e733893517d41f1ce9b877e775430b9932
 
   echo "Something";
 ?>
