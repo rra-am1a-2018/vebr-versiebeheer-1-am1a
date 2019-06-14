@@ -1,14 +1,16 @@
 <?php
-  echo "Hallo Git World!";
-  echo "Dit is nieuwe code voor de tweede commit";
-  echo "Dit is de derde commit";
-  echo "avatar the last airbender is best show e ver";
-  echo "Hallo Git World!";
 echo "Hallo Git World!";
 echo "Dit is nieuwe code voor de tweede commit";
 echo "Dit is de derde commit";
 echo "avatar the last airbender is best show e ver";
-
+echo "Hallo Git World!";
+echo "Hallo Git World!";
+echo "Dit is nieuwe code voor de tweede commit";
+echo "Dit is de derde commit";
+echo "avatar the last airbender is best show e ver";
+?>
+<img src="./footoo/tenor.gif">
+<?php
 echo "Hallo Git World!";
 echo "Dit is nieuwe code voor de tweede commit";
 echo "Dit is de derde commit";
@@ -26,28 +28,28 @@ echo "Dit is een vijftiende commit";
 echo "Dit is de zestiende commit";
 echo "Pull request";
 echo "Hello There";
-  echo "Dit wordt de vijfde commit";
-  echo "Dit is de zevende commit";
-  echo "Dit is de achtste commit";
-  echo "Dit is de negende commit";
-  echo "Dit is de tiende commit";
-  echo "Dit is de elfde commit";
-  echo "Dit is de twaalfde commit";
-  echo "Dit is de dertiende commit";
-  echo "Dit is de veertiende commit";
-  echo "dit is een commit";
-  echo "Dit is een vijftiende commit";
-  echo "Dit is de zestiende commit";
-  echo "Pull request";
-  echo "blood";
-  echo "heyy";
+echo "Dit wordt de vijfde commit";
+echo "Dit is de zevende commit";
+echo "Dit is de achtste commit";
+echo "Dit is de negende commit";
+echo "Dit is de tiende commit";
+echo "Dit is de elfde commit";
+echo "Dit is de twaalfde commit";
+echo "Dit is de dertiende commit";
+echo "Dit is de veertiende commit";
+echo "dit is een commit";
+echo "Dit is een vijftiende commit";
+echo "Dit is de zestiende commit";
+echo "Pull request";
+echo "blood";
+echo "heyy";
 
-  echo "Mijn naam is Arjan";
-  echo "Dit is de volgende test";
+echo "Mijn naam is Arjan";
+echo "Dit is de volgende test";
 echo "241";
-  echo "Something";
+echo "Something";
 
-  echo "Hello There";
+echo "Hello There";
 echo "Hallo Git World!";
 echo "Dit is nieuwe code voor de tweede commit";
 echo "Dit is de derde commit";
