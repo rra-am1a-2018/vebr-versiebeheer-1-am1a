@@ -138,13 +138,12 @@ echo "Something";
 ?>
 
 <img src="./footoo/F.jpg">
-<<<<<<< HEAD
 <img src="./footoo/yr.jpg">
 <img src="./footoo/opblaasbootje.jpg">
-=======
 <img src="./footoo/when does this end.png">
 <img src="./footoo/wb.png">
->>>>>>> 36a4c4c6ca94996f8313d00674a5ea5f4d16b1b6
+<img src="./footoo/def.jpg">
+
 <?php
 echo "Hallo Git World!";
 echo "Dit is nieuwe code voor de tweede commit";
