@@ -16,6 +16,10 @@
   echo "Dit is de zestiende commit";
   echo "Pull request";
 <<<<<<< HEAD
+  echo "Dit is de 17e commit"
+?>
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
   echo "heyy"
 ?> 
@@ -28,3 +32,4 @@ echo "241";
   echo "Something";
 ?>
 >>>>>>> 656c27d6b2c99975cfabda438f1562b8ecd6891d
+>>>>>>> c158a316813a0204a2def59f24f2aab6c758c8f5
