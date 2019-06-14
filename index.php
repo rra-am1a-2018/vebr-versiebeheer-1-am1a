@@ -15,6 +15,10 @@
   echo "Dit is een vijftiende commit";
   echo "Dit is de zestiende commit";
   echo "Pull request";
+<<<<<<< HEAD
 
   echo "mijn naam is wobf";
+=======
+  echo "Mijn naam is Arjan";
+>>>>>>> 0378b7b80b1f75d23b11c3c3bf90058b84e50c90
 ?>
