@@ -34,6 +34,20 @@ echo "Hello There";
   echo "Dit is een vijftiende commit";
   echo "Dit is de zestiende commit";
   echo "Pull request";
+<<<<<<< HEAD
+  echo "blood";
+<<<<<<< HEAD
+<<<<<<< HEAD
+  echo "heyy"
+?> 
+=======
+=======
+  echo "Mijn naam is Arjan";
+  echo "Dit is de volgende test";
+>>>>>>> d82192e733893517d41f1ce9b877e775430b9932
+echo "241";
+  echo "Something";
+=======
   echo "Hello There";
 echo "Hallo Git World!";
 echo "Dit is nieuwe code voor de tweede commit";
@@ -54,6 +68,7 @@ echo "Pull request";
 echo "Mijn naam is Arjan";
 echo "Dit is de volgende test";
 echo "Something";
+>>>>>>> bc2f8ce29b874ddfd9089adcae531f8531b38dbf
 ?>
 
 <img src="./footoo/F.jpg">
