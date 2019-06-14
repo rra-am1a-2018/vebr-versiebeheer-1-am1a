@@ -17,4 +17,6 @@
   echo "Pull request";
   echo "Mijn naam is Arjan";
   echo "Dit is de volgende test";
+
+  echo "Something";
 ?>
