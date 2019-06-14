@@ -16,5 +16,5 @@
   echo "Dit is de zestiende commit";
   echo "Pull request";
 
-  echo "Something"
+  echo "Something";
 ?>
