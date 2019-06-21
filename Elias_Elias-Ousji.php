@@ -24,7 +24,7 @@
       <th scope="row">3</th>
       <td>Help </td>
       <td>Ik heb geen idee wat ikd oe</td>
-      <td>@twitter</td>
+      <td>HO</td>
     </tr>
   </tbody>
 </table>
