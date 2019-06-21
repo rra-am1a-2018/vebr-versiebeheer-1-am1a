@@ -16,7 +16,7 @@
     </tr>
     <tr>
       <th scope="row">2</th>
-      <td>Jacob</td>
+      <td>Hoe gaat het?</td>
       <td>Thornton</td>
       <td>@fat</td>
     </tr>
